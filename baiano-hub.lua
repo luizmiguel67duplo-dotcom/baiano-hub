@@ -255,4 +255,4 @@ nStroke.Thickness = 2
 task.wait(3)
 notif:Destroy()
 
-print("[BAIANO HUB] Carregado! 🎩")
+print("[BAIANO HUN]
